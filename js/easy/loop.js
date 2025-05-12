@@ -39,7 +39,7 @@ function vowelsAndConsonants(s) {
         }
     });
 };
-
+vowelsAndConsonants("zfdzdsZdsDaaa")
 
 function main() {
     const s = readLine();
